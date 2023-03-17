@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "@MarketingPipeline/TryCatchJS",
+  "description": "A JavaScript library for handling errors in a more structured way.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/MarketingPipeline/TryCatch.js",
+  "license": "MIT",
+  "main": "./dist/trycatch.min.js",
+  "bugs": {
+    "url": "https://github.com/MarketingPipeline/TryCatch.js/issues"
+  },
+  "author": {
+    "url": "https://github.com/MarketingPipeline"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarketingPip/TryCatch.js.git"
+  }
+}
